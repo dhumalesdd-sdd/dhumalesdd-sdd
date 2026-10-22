@@ -511,34 +511,39 @@ An interactive sales analytics project for exploring e-commerce data and underst
 </div>
 
 
-### 🎯 What Problem Does It Solve?
 
-Students often have:
-
-`Resume + Skills + Projects + Education`
-
-but don't know:
-
-`What should I improve?`
 
 The platform brings these together to generate career-related insights.
 
+### 🎯 What Problem Does It Solve?
+
+E-commerce businesses generate large amounts of sales data, but understanding this data can be challenging.
+
+This project helps analyze:
+
+* `Sales performance and revenue trends`
+* `Product and category performance`
+* `Customer purchasing behaviour`
+* `Business insights through data visualization`
+
+The project transforms raw e-commerce data into meaningful insights to support better business decisions.
+
 ### ✨ Features
 
-| Feature                   | Purpose                         |
-| ------------------------- | ------------------------------- |
-| 📄 Resume Analysis        | Extract useful information      |
-| 🎯 ATS Analysis           | Evaluate resume structure       |
-| 🧩 Skill Gap              | Identify missing skills         |
-| 💼 Internship Matching    | Match skills with opportunities |
-| 📚 Course Recommendations | Suggest learning areas          |
-| 🗺️ Career Roadmap        | Structured career direction     |
-| 🎤 Interview Questions    | Interview preparation           |
-| 📊 Career Insights        | Profile analysis                |
+| Feature                      | Purpose                                                |
+| ---------------------------- | ------------------------------------------------------ |
+| 📂 Data Loading              | Load and explore e-commerce datasets                   |
+| 🧹 Data Processing           | Prepare data for analysis                              |
+| 📊 Exploratory Data Analysis | Understand patterns and trends                         |
+| 💰 Sales Analysis            | Explore sales performance and revenue                  |
+| 📈 Data Visualization        | Present insights using charts and graphs               |
+| 🖥️ Interactive Dashboard    | Explore sales insights through a Streamlit application |
+| 📉 Business Insights         | Support data-driven decision-making                    |
 
 ### 🛠️ Tech Stack
 
-`Python` `Streamlit` `Pandas` `Scikit-learn` `pdfplumber` `pytesseract` `Tesseract OCR` `ReportLab` `Plotly`
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Jupyter Notebook` `Streamlit`
+
 
 ---
 
