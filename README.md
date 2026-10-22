@@ -547,51 +547,55 @@ The project transforms raw e-commerce data into meaningful insights to support b
 
 ---
 
-# 🛡️ Suraksha
+<div align="center">
 
-### Smart Safety Solution
+## 🛍️ Customer Behaviour Analysis
 
-A wearable safety concept designed for emergency assistance.
+<a href="https://github.com/dhumalesdd-sdd/Customer_Behaviour_Analysis">
 
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dhumalesdd-sdd&repo=Customer_Behaviour_Analysis&theme=tokyonight&hide_border=true&border_radius=20" alt="Customer Behaviour Analysis Repository"/>
 
-```text
-        ┌───────────────┐
-        │     SOS 🚨     │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │ GPS LOCATION  │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │ GSM MESSAGE 📱│
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │ EMERGENCY     │
-        │ CONTACTS      │
-        └───────────────┘
-```
+</a>
 
-</p>
+**Tools:** Python | SQL | PostgreSQL | Power BI
 
-### Features
+An end-to-end data analytics project exploring customer purchasing patterns, spending, reviews, discounts, subscriptions, and demographics through data analysis and an interactive Power BI dashboard.
 
-* 🚨 One-touch SOS
-* 📍 GPS location tracking
-* 📡 GSM communication
-* 📱 Multiple emergency contacts
-* 🔋 Rechargeable wearable
-* 🎙️ Surrounding audio recording
-* 💾 SD card logging
-* 🌐 Designed to work without internet
+[📂 View Project on GitHub](https://github.com/dhumalesdd-sdd/Customer_Behaviour_Analysis)
 
-### Hardware
-
-`A9G` `Arduino Nano` `GPS` `GSM` `LiPo Battery` `TP4056` `NeoPixel`
+</div>
 
 ---
+
+### 🎯 What Problem Does It Solve?
+
+Businesses need to understand their customers' purchasing habits to make better decisions about products, pricing, and customer engagement.
+
+This project helps explore:
+
+* 🛒 Customer purchasing patterns
+* 💰 Spending behaviour and purchase trends
+* ⭐ Customer reviews and ratings
+* 🏷️ Discounts and subscription behaviour
+* 👥 Customer demographics
+* 📊 Insights through an interactive Power BI dashboard
+
+### ✨ Features
+
+| Feature                  | Purpose                                   |
+| ------------------------ | ----------------------------------------- |
+| 📂 Customer Dataset      | Explore customer shopping data            |
+| 🧹 Data Analysis         | Understand and prepare data for analysis  |
+| 🛍️ Purchasing Behaviour | Examine customer purchasing patterns      |
+| 💰 Spending Analysis     | Explore customer spending trends          |
+| ⭐ Review Analysis        | Investigate customer reviews and ratings  |
+| 🗄️ SQL Queries          | Query and analyze customer data           |
+| 📊 Power BI Dashboard    | Visualize customer behaviour and insights |
+
+### 🛠️ Tech Stack
+
+`Python` `SQL` `PostgreSQL` `Power BI` `Data Analysis` `Data Visualization`
+
 
 # ⚡ Electricity Theft Detection & Analytics
 
