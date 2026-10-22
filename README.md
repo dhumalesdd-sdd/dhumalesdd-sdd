@@ -551,7 +551,7 @@ The project transforms raw e-commerce data into meaningful insights to support b
 
 ## 🛍️ Customer Behaviour Analysis
 
-<a href="https://github.com/dhumalesdd-sdd/Customer_Behaviour_Analysis">
+<a href="https://github.com/dhumalesdd-sdd/Customer_Behaviour_Analaysis">
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhumalesdd-sdd&repo=Customer_Behaviour_Analaysis&theme=tokyonight&hide_border=true&border_radius=20" alt="Customer Behaviour Analysis Repository"/>
 
@@ -561,7 +561,7 @@ The project transforms raw e-commerce data into meaningful insights to support b
 
 An end-to-end data analytics project exploring customer purchasing patterns, spending, reviews, discounts, subscriptions, and demographics through data analysis and an interactive Power BI dashboard.
 
-[📂 View Project on GitHub](https://github.com/dhumalesdd-sdd/Customer_Behaviour_Analysis)
+[📂 View Project on GitHub](https://github.com/dhumalesdd-sdd/Customer_Behaviour_Analaysis)
 
 </div>
 
