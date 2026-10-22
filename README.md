@@ -494,15 +494,22 @@ Currently studying:
 
 <div align="center">
 
-## 🧠 Career Intelligence Platform
+## 📊 E-commerce Sales Analytics
 
-<a href="https://github.com/dhumalesdd-sdd/Career-Intelligence-Platform">
+<a href="https://github.com/dhumalesdd-sdd/ECommerce_sales_analytics">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dhumalesdd-sdd&repo=Career-Intelligence-Platform&theme=tokyonight&hide_border=true&border_radius=20"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dhumalesdd-sdd&repo=ECommerce_sales_analytics&theme=tokyonight&hide_border=true&border_radius=20" alt="E-commerce Sales Analytics Repository"/>
 
 </a>
 
+**Tools:** Python | Jupyter Notebook | Streamlit
+
+An interactive sales analytics project for exploring e-commerce data and understanding sales performance through data analysis and visualization.
+
+[📂 View Project on GitHub](https://github.com/dhumalesdd-sdd/ECommerce_sales_analytics)
+
 </div>
+
 
 ### 🎯 What Problem Does It Solve?
 
