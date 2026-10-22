@@ -553,7 +553,7 @@ The project transforms raw e-commerce data into meaningful insights to support b
 
 <a href="https://github.com/dhumalesdd-sdd/Customer_Behaviour_Analysis">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dhumalesdd-sdd&repo=Customer_Behaviour_Analysis&theme=tokyonight&hide_border=true&border_radius=20" alt="Customer Behaviour Analysis Repository"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dhumalesdd-sdd&repo=Customer_Behaviour_Analaysis&theme=tokyonight&hide_border=true&border_radius=20" alt="Customer Behaviour Analysis Repository"/>
 
 </a>
 
